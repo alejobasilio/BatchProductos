@@ -1,0 +1,1001 @@
+id;producto;marca;precio;moneda
+1;ut odio;alcatel;20.2;Dirham
+2;dolor sit;HTC;9.67;Rupiah
+3;massa donec;LG;66.94;Euro
+4;fermentum justo;Micromax;93.0;Zloty
+5;blandit non;O2;73.15;Kyat
+6;ut at;Yezz;59.06;Euro
+7;suspendisse;Karbonn;7.95;Euro
+8;leo;Plum;36.96;Yuan Renminbi
+9;aliquam;Gigabyte;72.81;Peso
+10;diam id;Yezz;52.84;Peso
+11;et ultrices;Honor;76.99;Koruna
+12;faucibus accumsan;Motorola;72.62;Real
+13;molestie nibh;Panasonic;47.4;Euro
+14;amet consectetuer;LG;52.61;Euro
+15;donec quis;Samsung;11.27;Lev
+16;sed;Honor;69.05;Rupiah
+17;elementum ligula;Motorola;78.08;Baht
+18;nulla;TCL;13.18;Zloty
+19;duis;Microsoft;50.28;Real
+20;maecenas leo;Vodafone;32.61;Yuan Renminbi
+21;nisi eu;Apple;77.85;Yen
+22;sapien;Samsung;63.77;Koruna
+23;ligula suspendisse;Sony;81.06;Real
+24;sit;Tecno;94.07;Sol
+25;orci pede;HTC;86.0;Real
+26;proin;Samsung;21.13;Zloty
+27;elit proin;verykool;47.6;Naira
+28;luctus nec;alcatel;79.73;Real
+29;est;Samsung;3.64;Naira
+30;dapibus;BlackBerry;93.37;Lek
+31;ut blandit;Motorola;10.15;Marka
+32;arcu;Motorola;65.79;Ruble
+33;mauris ullamcorper;Lenovo;81.1;Krona
+34;elementum;Energizer;1.18;Baht
+35;vel;LG;57.88;Euro
+36;blandit mi;Samsung;6.45;Yuan Renminbi
+37;blandit nam;Lenovo;27.18;Lempira
+38;vel lectus;Pantech;3.36;Peso
+39;sed justo;Yezz;79.87;Rupiah
+40;odio justo;Nokia;60.5;Peso
+41;dignissim vestibulum;Oppo;27.01;Rupiah
+42;dapibus augue;BlackBerry;67.23;Euro
+43;diam vitae;XOLO;49.13;Euro
+44;accumsan tellus;Micromax;21.62;Yuan Renminbi
+45;libero;alcatel;6.55;Yuan Renminbi
+46;vehicula consequat;Yezz;31.9;Won
+47;vestibulum ac;alcatel;59.49;Euro
+48;proin risus;Gionee;3.7;Yuan Renminbi
+49;adipiscing elit;Motorola;2.59;Yuan Renminbi
+50;ipsum;Samsung;65.06;Yuan Renminbi
+51;id;Samsung;97.77;Euro
+52;semper;Sagem;20.87;Euro
+53;congue;BLU;61.19;Yuan Renminbi
+54;lectus suspendisse;Vodafone;66.64;Euro
+55;a odio;LG;77.27;Peso
+56;nec;Nokia;23.51;Zloty
+57;at;Nokia;81.24;Yuan Renminbi
+58;sapien urna;Philips;96.65;Real
+59;mus;Siemens;49.98;Shilling
+60;congue;Nokia;39.01;Peso
+61;lorem;Gionee;13.77;Won
+62;pellentesque;Allview;84.17;Yuan Renminbi
+63;curae donec;XOLO;21.81;Yuan Renminbi
+64;integer;Motorola;8.16;Baht
+65;pede;Micromax;19.79;Dollar
+66;sit;Sagem;96.06;Zloty
+67;imperdiet;Nokia;93.78;Guarani
+68;eu;Samsung;26.71;Euro
+69;ridiculus mus;BlackBerry;13.4;Yuan Renminbi
+70;sodales scelerisque;LG;30.71;Dollar
+71;auctor;Micromax;21.71;Euro
+72;tristique tortor;Innostream;66.72;Rupiah
+73;nulla tellus;Samsung;44.34;Krona
+74;eleifend quam;Oppo;35.52;Hryvnia
+75;imperdiet;alcatel;15.63;Rupiah
+76;aliquam;Huawei;28.46;Rupiah
+77;phasellus sit;Samsung;34.09;Peso
+78;ultricies eu;Gionee;46.31;Euro
+79;cras pellentesque;Motorola;88.14;Ruble
+80;amet;Oppo;99.86;Rupiah
+81;integer non;Nokia;75.23;Yuan Renminbi
+82;aenean auctor;Motorola;96.96;Sol
+83;leo;Motorola;22.28;Yuan Renminbi
+84;volutpat dui;LG;15.29;Naira
+85;enim;alcatel;12.65;Yuan Renminbi
+86;placerat;alcatel;21.57;Euro
+87;consectetuer;Nokia;31.9;Euro
+88;rhoncus;BLU;24.58;Dong
+89;vestibulum;Spice;48.1;Peso
+90;curabitur;Amoi;25.1;Zloty
+91;vestibulum;LG;5.51;Ringgit
+92;justo;Samsung;50.94;Euro
+93;luctus;Acer;85.64;Ruble
+94;fusce;verykool;49.48;Yen
+95;eu tincidunt;VK;98.23;Real
+96;suspendisse accumsan;HTC;67.11;Real
+97;eget eleifend;ZTE;92.39;Yuan Renminbi
+98;amet diam;Micromax;76.21;Rupiah
+99;eget semper;BLU;26.43;Yuan Renminbi
+100;dapibus duis;Motorola;19.95;Yuan Renminbi
+101;ipsum;Samsung;25.93;Rand
+102;lobortis convallis;Nokia;42.28;Shekel
+103;in;Samsung;46.78;Zloty
+104;nibh ligula;Huawei;80.43;Peso
+105;pharetra;Yota;91.57;Marka
+106;curabitur at;Xiaomi;63.97;Euro
+107;ultricies eu;Samsung;26.09;Yuan Renminbi
+108;condimentum;Celkon;16.94;Euro
+109;ut rhoncus;Celkon;21.01;Peso
+110;sociis natoque;Parla;83.36;Yuan Renminbi
+111;libero quis;Lava;97.61;Quetzal
+112;cum;Spice;46.43;Dram
+113;ut blandit;Xiaomi;73.53;Krona
+114;vestibulum ante;T-Mobile;13.18;Cordoba
+115;lorem id;HTC;54.86;Rupiah
+116;arcu;Amoi;51.89;Yen
+117;sed;Sendo;89.98;Baht
+118;tellus semper;Celkon;44.16;Peso
+119;vivamus;Motorola;53.15;Euro
+120;tellus in;alcatel;61.16;Yuan Renminbi
+121;luctus;Sharp;85.39;Euro
+122;luctus nec;Sony;80.26;Euro
+123;at;Asus;57.62;Rupiah
+124;sem sed;BLU;99.13;Yuan Renminbi
+125;convallis tortor;Yezz;86.56;Lek
+126;sapien;Spice;33.84;Rupiah
+127;iaculis justo;Ericsson;8.88;Euro
+128;ultrices;verykool;98.68;Pound
+129;turpis;BLU;98.51;Euro
+130;turpis;HTC;66.81;Peso
+131;vitae consectetuer;Motorola;66.78;Dinar
+132;morbi vestibulum;Siemens;56.68;Yuan Renminbi
+133;ipsum;Nokia;86.55;Yuan Renminbi
+134;mattis;LeEco;8.68;Ruble
+135;natoque penatibus;Nokia;15.71;Peso
+136;felis sed;Samsung;7.13;Dollar
+137;cursus id;Samsung;93.94;Yuan Renminbi
+138;mattis odio;LG;43.1;Euro
+139;tempus;Philips;6.65;Peso
+140;morbi;BenQ-Siemens;66.95;Rupiah
+141;vel lectus;LG;82.22;Ruble
+142;scelerisque;Micromax;80.23;Euro
+143;curae;verykool;93.35;Koruna
+144;ante ipsum;Maxon;25.79;Real
+145;amet;Pantech;31.4;Euro
+146;nulla;vivo;58.52;Won
+147;ipsum primis;Motorola;90.26;Boliviano
+148;platea;Oppo;91.15;Euro
+149;sed;HTC;74.77;Euro
+150;odio in;QMobile;58.55;Yuan Renminbi
+151;lectus vestibulum;LG;10.49;Euro
+152;nibh;vivo;30.95;Ruble
+153;congue;LG;59.5;Shilling
+154;quam;LG;12.79;Peso
+155;fermentum donec;Nokia;36.17;Kwanza
+156;morbi vestibulum;Wiko;2.71;Tugrik
+157;quam sapien;Huawei;25.39;Euro
+158;sapien;Asus;17.29;Pound
+159;nullam molestie;Allview;58.66;Naira
+160;dictumst;QMobile;14.48;Dollar
+161;elit ac;Micromax;99.18;Euro
+162;in faucibus;HTC;58.8;Pula
+163;orci eget;Panasonic;91.06;Peso
+164;ante ipsum;Motorola;67.67;Ruble
+165;vitae nisi;alcatel;5.65;Ruble
+166;pulvinar lobortis;Wiko;15.64;Rupee
+167;tristique in;Meizu;37.45;Yuan Renminbi
+168;odio;Asus;32.13;Yuan Renminbi
+169;in hac;Lenovo;13.99;Rupiah
+170;pede;HTC;69.71;Dirham
+171;a nibh;Samsung;73.09;Guarani
+172;dolor;MWg;47.85;Peso
+173;duis ac;Microsoft;2.34;Ruble
+174;ut;Lenovo;16.6;Euro
+175;placerat ante;Nokia;55.25;Hryvnia
+176;ante vel;Haier;75.29;Yuan Renminbi
+177;consequat;alcatel;99.17;Peso
+178;dolor;Xiaomi;23.59;Real
+179;dignissim;Sonim;9.83;Dinar
+180;blandit;Sony;11.88;Peso
+181;ac leo;Nokia;75.7;Euro
+182;praesent lectus;Archos;92.15;Ruble
+183;mauris viverra;Icemobile;52.24;Yuan Renminbi
+184;lectus aliquam;Huawei;60.35;Peso
+185;nisi at;Acer;83.31;Peso
+186;donec;Lenovo;54.51;Yuan Renminbi
+187;eleifend quam;ZTE;12.63;Euro
+188;mauris;BLU;25.82;Quetzal
+189;lorem;ZTE;90.18;Yuan Renminbi
+190;donec;Unnecto;32.37;Yen
+191;ut ultrices;Sendo;37.26;Rupiah
+192;at dolor;Honor;56.86;Peso
+193;eget;Lenovo;62.2;Euro
+194;mauris;alcatel;53.59;Shilling
+195;consequat nulla;Allview;18.19;Naira
+196;enim;Infinix;16.81;Yuan Renminbi
+197;integer;Sharp;57.68;Bolivar
+198;maecenas rhoncus;Samsung;18.72;Peso
+199;at turpis;Huawei;74.3;Zloty
+200;tristique in;Allview;24.22;Dinar
+201;id nulla;Celkon;87.02;Ruble
+202;aenean sit;Motorola;83.75;Real
+203;mauris;Mitsubishi;45.81;Naira
+204;et;Allview;77.38;Rupiah
+205;mauris vulputate;T-Mobile;63.79;Yuan Renminbi
+206;dui nec;Motorola;22.21;Rupiah
+207;habitasse;Samsung;33.88;Euro
+208;augue;LG;89.67;Peso
+209;magna;Lenovo;40.8;Yuan Renminbi
+210;vestibulum;Motorola;21.11;Euro
+211;habitasse platea;BLU;43.62;Dollar
+212;tincidunt;Energizer;7.22;Cordoba
+213;sed vestibulum;Samsung;89.25;Euro
+214;lectus in;Samsung;96.15;Yuan Renminbi
+215;ut rhoncus;Samsung;51.92;Pound
+216;semper rutrum;Gionee;87.81;Rupiah
+217;velit eu;Icemobile;62.53;Dram
+218;id;Lenovo;3.11;Yuan Renminbi
+219;cras;Lenovo;25.41;Dollar
+220;nunc proin;Maxon;65.59;Rupiah
+221;amet eleifend;BlackBerry;37.25;Kwacha
+222;lacinia;Prestigio;5.08;Euro
+223;sed;Lenovo;69.4;Yen
+224;volutpat eleifend;BlackBerry;1.29;Peso
+225;non interdum;LG;25.14;Dollar
+226;nonummy integer;Samsung;96.16;Pound
+227;ante;Oppo;7.78;Rupiah
+228;semper;AT&T;52.9;Sol
+229;odio justo;VK;70.26;Afghani
+230;nunc;HTC;73.94;Ruble
+231;praesent;Nokia;8.46;Krone
+232;tortor;Sony;90.42;Yuan Renminbi
+233;cubilia;verykool;30.54;Yuan Renminbi
+234;duis mattis;Oppo;30.16;Peso
+235;nulla;LG;39.6;Boliviano
+236;aenean;Panasonic;42.22;Yen
+237;parturient;Plum;31.38;Peso
+238;proin;Nokia;45.38;Euro
+239;id;T-Mobile;31.07;Leone
+240;donec;Lenovo;61.78;Rupiah
+241;non velit;Huawei;53.67;Shilling
+242;vestibulum;Plum;30.07;Ruble
+243;in felis;HTC;24.72;Euro
+244;dictumst;Motorola;30.08;Yen
+245;posuere;Sony;27.24;Manat
+246;iaculis;Lenovo;30.19;Sol
+247;nam;Samsung;95.77;Ruble
+248;donec pharetra;Sony;29.75;Euro
+249;tellus;Panasonic;14.19;Zloty
+250;posuere;NIU;47.04;Rupiah
+251;odio cras;Nokia;49.46;Yuan Renminbi
+252;rutrum neque;alcatel;94.96;Yen
+253;lectus;LG;90.62;Som
+254;lectus aliquam;Micromax;85.58;Baht
+255;eu;MWg;10.59;Rupiah
+256;facilisi;LG;98.54;Bolivar
+257;dapibus duis;Sendo;70.92;Peso
+258;vestibulum velit;Samsung;69.54;Rupiah
+259;morbi;Philips;7.16;Peso
+260;in hac;alcatel;7.32;Krona
+261;pede malesuada;Nokia;23.04;Euro
+262;pellentesque;Spice;77.27;Yuan Renminbi
+263;scelerisque mauris;LG;42.55;Rial
+264;eu;Motorola;54.68;Yuan Renminbi
+265;vestibulum quam;LG;65.2;Franc
+266;in;Bird;44.1;Sol
+267;lobortis;Samsung;63.95;Rupiah
+268;nisl;Benefon;74.42;Lempira
+269;sapien;Nokia;43.64;Rupiah
+270;nascetur;Oppo;79.6;Ruble
+271;nunc;Huawei;63.14;Koruna
+272;quis;Motorola;18.32;Rupee
+273;vehicula condimentum;Bird;39.3;Peso
+274;ut;Samsung;64.23;Rand
+275;donec;Lenovo;14.9;Yuan Renminbi
+276;maecenas leo;alcatel;17.54;Birr
+277;sed;Spice;11.28;Rupiah
+278;lorem;Apple;98.95;Peso
+279;nulla;Samsung;26.46;Krona
+280;dignissim;Philips;6.15;Ruble
+281;morbi non;HTC;44.38;Dollar
+282;orci;Huawei;60.38;Krona
+283;morbi vestibulum;Oppo;81.63;Yuan Renminbi
+284;eros;BLU;24.93;Yuan Renminbi
+285;porta volutpat;Samsung;80.83;Zloty
+286;ut;ZTE;11.01;Yuan Renminbi
+287;sem;BLU;58.44;Naira
+288;sapien;Celkon;37.96;Euro
+289;vestibulum;Nokia;18.59;Krone
+290;amet cursus;Motorola;79.52;Franc
+291;dis;Sony;53.2;Real
+292;ut;LG;71.18;Yuan Renminbi
+293;non;O2;44.24;Yuan Renminbi
+294;lectus;BLU;69.03;Rial
+295;proin risus;Plum;26.04;Peso
+296;id;Samsung;19.21;Ruble
+297;nulla;Samsung;29.17;Yuan Renminbi
+298;sit;Philips;93.42;Yuan Renminbi
+299;odio;alcatel;98.21;Real
+300;fringilla rhoncus;Huawei;5.15;Rand
+301;nulla nisl;Yezz;86.56;Real
+302;erat volutpat;HTC;95.32;Real
+303;risus;QMobile;41.81;Peso
+304;consequat lectus;ZTE;71.18;Euro
+305;sollicitudin vitae;Micromax;5.65;Euro
+306;ipsum aliquam;alcatel;92.36;Baht
+307;integer;Celkon;58.22;Zloty
+308;suscipit ligula;Panasonic;29.14;Peso
+309;hac habitasse;Ericsson;88.55;Dinar
+310;fermentum;QMobile;36.09;Quetzal
+311;sapien non;BenQ;22.03;Naira
+312;orci;Sagem;26.44;Lempira
+313;at;Vertu;61.88;Ouguiya
+314;suspendisse potenti;Samsung;83.8;Real
+315;tortor;LG;51.93;Rupiah
+316;quisque porta;Samsung;10.7;Franc
+317;fusce;Karbonn;92.91;Yuan Renminbi
+318;sapien sapien;Oppo;59.94;Manat
+319;eleifend;LG;50.66;Gourde
+320;habitasse platea;BLU;71.92;Yuan Renminbi
+321;accumsan tortor;Cat;56.45;Won
+322;nisl duis;Samsung;36.88;Yuan Renminbi
+323;natoque penatibus;Eten;29.0;Balboa
+324;sapien;Xiaomi;73.57;Rupee
+325;congue risus;Asus;97.83;Yuan Renminbi
+326;facilisi;Amoi;67.35;Yuan Renminbi
+327;ultrices posuere;Motorola;68.64;Franc
+328;ligula;Honor;28.33;Euro
+329;sapien;Sagem;85.56;Dollar
+330;blandit;alcatel;56.13;Peso
+331;dictumst;alcatel;93.09;Euro
+332;morbi;NIU;70.72;Rupiah
+333;ante ipsum;QMobile;65.28;Rupiah
+334;a;ZTE;42.89;Yuan Renminbi
+335;lorem;alcatel;53.57;Krona
+336;hac habitasse;Micromax;36.12;Ruble
+337;et;Motorola;36.18;Euro
+338;tincidunt;Haier;35.12;Euro
+339;maecenas;Kyocera;88.77;Dollar
+340;ante ipsum;Celkon;1.85;Zloty
+341;integer a;Nokia;60.47;Euro
+342;integer pede;LG;63.1;Rupiah
+343;etiam pretium;Vodafone;23.23;Dinar
+344;elementum pellentesque;Huawei;7.58;Yuan Renminbi
+345;vestibulum;LG;76.1;Yuan Renminbi
+346;dolor sit;Lava;66.59;Rupee
+347;in purus;Wiko;82.19;Rupiah
+348;urna pretium;Micromax;51.86;Peso
+349;tristique tortor;Sony;2.22;Rupiah
+350;in ante;Oppo;27.08;Naira
+351;vel lectus;Xiaomi;80.31;Rupiah
+352;ipsum primis;vivo;9.62;Peso
+353;lectus pellentesque;Samsung;84.3;Real
+354;mauris;Lenovo;67.18;Rupiah
+355;sollicitudin mi;Yezz;12.69;Yuan Renminbi
+356;nulla;Lava;18.77;Peso
+357;enim blandit;T-Mobile;23.21;Rupiah
+358;parturient;Motorola;17.45;Rupiah
+359;amet consectetuer;Sagem;61.05;Yuan Renminbi
+360;eget;Samsung;92.64;Krona
+361;pulvinar;verykool;67.77;Yen
+362;est;Nokia;75.75;Real
+363;nibh ligula;QMobile;24.04;Rupiah
+364;nascetur;Philips;54.58;Krone
+365;amet eros;BlackBerry;9.47;Nakfa
+366;leo;Motorola;21.53;Peso
+367;sem;Pantech;32.94;Lek
+368;morbi vel;Huawei;81.3;Peso
+369;sodales;HTC;67.19;Rupiah
+370;suspendisse;Archos;76.26;Zloty
+371;risus auctor;Sony;13.22;Sol
+372;enim sit;Apple;51.42;Ruble
+373;sagittis;Celkon;4.86;Rupiah
+374;tempor turpis;LG;3.25;Hryvnia
+375;augue;Samsung;4.01;Dollar
+376;libero;Casio;54.18;Dinar
+377;purus aliquet;Spice;69.56;Rupiah
+378;vel;Huawei;59.2;Ringgit
+379;pede;Meizu;89.13;Euro
+380;sed accumsan;Xiaomi;9.51;Rupiah
+381;nulla suspendisse;NEC;9.05;Yuan Renminbi
+382;accumsan odio;HTC;35.73;Real
+383;vestibulum vestibulum;Sony;2.94;Marka
+384;molestie lorem;Emporia;38.97;Euro
+385;vel nisl;LG;62.4;Rupiah
+386;nisi;Samsung;50.97;Yuan Renminbi
+387;mauris eget;Acer;49.66;Ruble
+388;nulla nisl;LG;61.04;Tugrik
+389;in est;Samsung;63.76;Yuan Renminbi
+390;non;Oppo;62.9;Dinar
+391;est risus;Samsung;11.78;Tugrik
+392;sapien cursus;Wiko;71.84;Shilling
+393;morbi sem;Oppo;94.23;Euro
+394;cubilia;alcatel;85.34;Won
+395;lacus morbi;Asus;57.51;Euro
+396;diam vitae;Samsung;14.95;Zloty
+397;libero;Motorola;38.3;Euro
+398;in;Samsung;65.85;Hryvnia
+399;interdum;Micromax;89.96;Peso
+400;ut;Siemens;86.76;Rial
+401;velit id;Sony;84.15;Peso
+402;a;Siemens;25.15;Franc
+403;quis;Samsung;96.26;Peso
+404;proin eu;alcatel;59.47;Rupiah
+405;ac tellus;LG;93.56;Dollar
+406;auctor;LG;92.68;Baht
+407;ut volutpat;Philips;18.47;Peso
+408;aliquet maecenas;Honor;91.72;Peso
+409;sollicitudin;Panasonic;90.9;Lev
+410;sed;Ulefone;90.1;Quetzal
+411;montes;Acer;4.43;Lempira
+412;sit;XOLO;49.94;Krone
+413;tellus nulla;Samsung;34.15;Yuan Renminbi
+414;erat;QMobile;92.32;Yuan Renminbi
+415;nullam;Micromax;43.97;Euro
+416;est et;Huawei;62.64;Yuan Renminbi
+417;velit nec;Philips;58.74;Yuan Renminbi
+418;nisi;Ericsson;93.87;Baht
+419;sapien cum;Samsung;43.1;Peso
+420;volutpat;Sony;99.92;Yuan Renminbi
+421;duis;alcatel;74.55;Real
+422;et magnis;Infinix;50.45;Rupiah
+423;et;Panasonic;13.08;Hryvnia
+424;libero;i-mate;14.07;Ruble
+425;potenti;Vodafone;34.89;Manat
+426;lorem vitae;Realme;27.63;Zloty
+427;in sapien;HTC;19.45;Yen
+428;felis sed;Lava;97.57;Dollar
+429;habitasse;Wiko;95.84;Rupiah
+430;luctus et;Micromax;29.76;Peso
+431;sapien cursus;Nokia;26.23;Euro
+432;ac;LG;89.19;Cordoba
+433;ut;BlackBerry;15.49;Krone
+434;etiam pretium;Plum;22.24;Euro
+435;eu sapien;Bird;37.92;Euro
+436;metus;alcatel;21.11;Yuan Renminbi
+437;neque;alcatel;18.91;Euro
+438;vel;Philips;34.57;Dinar
+439;potenti;LG;73.98;Baht
+440;vulputate;Nokia;97.61;Peso
+441;velit;Plum;8.36;Baht
+442;morbi;HTC;22.1;Yen
+443;quam;Samsung;31.47;Rupiah
+444;mauris enim;Qtek;57.15;Rupiah
+445;ut volutpat;Honor;56.99;Dollar
+446;vestibulum ac;Samsung;23.26;Naira
+447;id;Motorola;54.73;Peso
+448;nulla quisque;Acer;88.0;Peso
+449;quis;Posh;38.02;Rupiah
+450;nibh;Xiaomi;49.14;Real
+451;fermentum donec;Infinix;80.99;Peso
+452;luctus et;Allview;26.78;Shilling
+453;consequat;BLU;70.66;Kuna
+454;pellentesque quisque;Samsung;90.9;Ruble
+455;non mattis;Samsung;89.42;Yuan Renminbi
+456;turpis eget;Siemens;85.39;Dollar
+457;quis;LG;40.9;Nakfa
+458;rutrum neque;NEC;60.21;Yuan Renminbi
+459;molestie nibh;HTC;66.65;Hryvnia
+460;justo morbi;Samsung;89.36;Yuan Renminbi
+461;tincidunt nulla;Allview;76.79;Yuan Renminbi
+462;platea;BLU;6.45;Lev
+463;sit;BLU;4.01;Krona
+464;fusce lacus;NEC;18.7;Pound
+465;vestibulum;Samsung;43.07;Dinar
+466;in;Panasonic;94.42;Shilling
+467;vel accumsan;VK;37.57;Yen
+468;nec molestie;Huawei;41.37;Euro
+469;morbi vestibulum;Honor;24.58;Yuan Renminbi
+470;vel lectus;vivo;64.29;Yuan Renminbi
+471;diam;Lenovo;72.0;Zloty
+472;pede;Prestigio;81.02;Dong
+473;tempor convallis;Samsung;99.62;Rupee
+474;mauris eget;alcatel;53.36;Ruble
+475;consequat in;Nvidia;14.99;Dram
+476;turpis a;Meizu;62.34;Somoni
+477;quam nec;Realme;96.01;Dollar
+478;in faucibus;Allview;33.56;Peso
+479;fusce congue;Toshiba;10.36;Rupiah
+480;sit amet;verykool;62.35;Yuan Renminbi
+481;primis;Siemens;34.58;Dollar
+482;tellus;Prestigio;51.82;Yuan Renminbi
+483;ligula in;QMobile;74.33;Yuan Renminbi
+484;non pretium;Philips;70.86;Yuan Renminbi
+485;mauris lacinia;Motorola;73.94;Euro
+486;turpis;Coolpad;93.29;Yuan Renminbi
+487;mattis;Yezz;59.93;Yuan Renminbi
+488;nisl;Nokia;74.93;Peso
+489;eros elementum;verykool;1.53;Yen
+490;in;Infinix;51.85;Rupiah
+491;ac consequat;Archos;8.59;Rupiah
+492;pharetra;BLU;28.87;Rupiah
+493;ultrices;Sony;90.75;Krona
+494;a ipsum;Motorola;1.7;Ruble
+495;habitasse;Intex;84.86;Franc
+496;vestibulum;Posh;13.25;Franc
+497;faucibus;Lava;32.56;Som
+498;pellentesque volutpat;Motorola;11.81;Peso
+499;vulputate luctus;Xiaomi;22.33;Dinar
+500;non ligula;Spice;4.26;Ruble
+501;amet;Celkon;79.76;Dram
+502;leo;Honor;42.3;Peso
+503;elit ac;Asus;51.25;Naira
+504;libero;Orange;2.47;Sol
+505;diam;Samsung;50.84;Peso
+506;justo;Samsung;21.31;Yuan Renminbi
+507;quis;Samsung;39.56;Ruble
+508;massa id;Huawei;36.12;Ruble
+509;tortor;Apple;75.6;Yuan Renminbi
+510;sem praesent;Apple;54.37;Peso
+511;sem;Acer;97.72;Yuan Renminbi
+512;vestibulum;LG;73.75;Rupiah
+513;porta volutpat;VK;43.95;Shilling
+514;eu;vivo;93.7;Dinar
+515;consectetuer;Philips;25.84;Euro
+516;imperdiet sapien;Samsung;47.86;Yuan Renminbi
+517;dictumst morbi;Maxon;28.5;Peso
+518;elementum;ZTE;28.93;Euro
+519;neque aenean;Celkon;33.22;Real
+520;potenti;Celkon;39.88;Euro
+521;turpis elementum;LG;24.33;Yuan Renminbi
+522;nascetur ridiculus;LeEco;41.58;Baht
+523;suspendisse;Nokia;84.99;Yuan Renminbi
+524;ante;Oppo;64.32;Peso
+525;blandit lacinia;HTC;56.28;Peso
+526;nunc proin;Micromax;85.8;Dinar
+527;odio condimentum;HTC;94.05;Ruble
+528;ullamcorper;Sony;90.91;Euro
+529;a libero;LG;98.0;Rupee
+530;accumsan;vivo;32.65;Dollar
+531;molestie nibh;LG;9.63;Baht
+532;lectus pellentesque;ZTE;91.62;Rupiah
+533;at;Tel.Me.;41.64;Yuan Renminbi
+534;nulla ac;Oppo;98.49;Dong
+535;eget;Asus;32.11;Euro
+536;non;alcatel;74.79;Yuan Renminbi
+537;turpis;Samsung;50.02;Zloty
+538;in;Spice;44.41;Zloty
+539;nulla;Unnecto;60.38;Marka
+540;pede justo;Samsung;88.93;Rupiah
+541;a;NEC;90.19;Sol
+542;dui proin;i-mobile;30.91;Dollar
+543;eget eleifend;QMobile;93.27;Tugrik
+544;platea dictumst;Acer;83.36;Yuan Renminbi
+545;leo pellentesque;Celkon;92.25;Rupiah
+546;suscipit;Ulefone;52.08;Yuan Renminbi
+547;nisl;Oppo;15.39;Yuan Renminbi
+548;quis orci;Samsung;50.04;Yen
+549;interdum in;LG;48.43;Yuan Renminbi
+550;at;ZTE;72.41;Rial
+551;volutpat convallis;BlackBerry;97.86;Naira
+552;quisque;Archos;62.79;Dollar
+553;magna vulputate;Sharp;54.04;Hryvnia
+554;erat;Samsung;92.78;Yuan Renminbi
+555;in;Sharp;46.16;Yuan Renminbi
+556;pede;Samsung;92.95;Peso
+557;vestibulum;Motorola;64.54;Dinar
+558;sed vestibulum;Plum;22.21;Yuan Renminbi
+559;neque sapien;Sonim;96.16;Baht
+560;sollicitudin vitae;Samsung;72.23;Peso
+561;enim;Samsung;69.5;Euro
+562;in;Asus;63.07;Dollar
+563;ac;Dell;32.34;Koruna
+564;amet nunc;Philips;90.88;Euro
+565;et;Prestigio;6.29;Dollar
+566;nullam varius;Samsung;99.19;Yuan Renminbi
+567;in tempor;Samsung;65.03;Rupiah
+568;massa;BLU;49.01;Tenge
+569;nulla;Samsung;20.72;Kina
+570;metus;Haier;99.52;Yuan Renminbi
+571;interdum mauris;Archos;99.68;Litas
+572;ante;Huawei;83.69;Yuan Renminbi
+573;vehicula consequat;Nokia;49.56;Rand
+574;amet diam;LG;57.72;Real
+575;quam pede;Huawei;14.06;Yuan Renminbi
+576;felis;Huawei;69.31;Ruble
+577;nisi volutpat;Nokia;59.78;Dollar
+578;id mauris;NEC;76.21;Ruble
+579;varius;Bird;59.38;Zloty
+580;nunc;HTC;64.46;Real
+581;in;Motorola;78.75;Dirham
+582;sed;Gigabyte;46.08;Peso
+583;eu;Samsung;79.46;Dirham
+584;vehicula condimentum;Lava;83.31;Rupiah
+585;turpis;Sony;27.97;Hryvnia
+586;sit amet;vivo;86.2;Euro
+587;sodales sed;Micromax;39.08;Euro
+588;vel enim;Xiaomi;99.45;Lempira
+589;nec;Huawei;68.86;Hryvnia
+590;purus;LG;95.21;Rial
+591;maecenas tristique;Vodafone;67.18;Rial
+592;eget massa;Apple;88.89;Yuan Renminbi
+593;nunc;Gionee;33.07;Peso
+594;in purus;O2;81.79;Manat
+595;in;Asus;86.59;Euro
+596;donec;Lenovo;18.05;Peso
+597;tincidunt in;LG;53.93;Rupiah
+598;iaculis congue;Micromax;96.57;Rial
+599;et magnis;ZTE;86.12;Yuan Renminbi
+600;maecenas rhoncus;Yezz;73.7;Yuan Renminbi
+601;at velit;Micromax;73.36;Dollar
+602;enim in;Nokia;89.98;Rupiah
+603;quam sapien;Motorola;43.02;Peso
+604;ut tellus;Samsung;75.31;Dollar
+605;donec quis;i-mate;32.35;Peso
+606;ac;Sony;44.95;Real
+607;in lacus;Asus;50.03;Tugrik
+608;phasellus;Nokia;21.96;Hryvnia
+609;morbi;alcatel;77.94;Sol
+610;nunc proin;Asus;64.54;Euro
+611;aliquam quis;alcatel;99.85;Rupiah
+612;massa;Tecno;82.68;Yuan Renminbi
+613;amet;Samsung;53.44;Rupiah
+614;sed magna;vivo;78.15;Kwanza
+615;sapien;Philips;76.53;Peso
+616;vitae nisi;Xiaomi;6.39;Rupiah
+617;lacus;Apple;88.44;Marka
+618;velit;Sagem;45.41;Pound
+619;adipiscing;Pantech;79.72;Yuan Renminbi
+620;luctus;Asus;90.5;Euro
+621;id ligula;HP;21.73;Dollar
+622;sed vel;Philips;19.84;Hryvnia
+623;mauris sit;LG;23.39;Shekel
+624;in blandit;Ulefone;11.49;Peso
+625;donec ut;Tecno;5.45;Euro
+626;condimentum curabitur;LG;31.67;Ruble
+627;tristique est;LG;5.76;Euro
+628;consectetuer adipiscing;Karbonn;32.8;Colon
+629;orci luctus;Sharp;13.69;Kwacha
+630;potenti;BLU;2.14;Ruble
+631;fermentum;Motorola;44.98;Euro
+632;primis in;ZTE;51.01;Rupiah
+633;natoque;Samsung;96.51;Ruble
+634;in faucibus;vivo;69.24;Koruna
+635;elementum nullam;LG;23.15;Pound
+636;mauris;LG;93.02;Franc
+637;duis bibendum;Sony;33.78;Taka
+638;platea dictumst;Apple;7.96;Kwanza
+639;fermentum donec;alcatel;87.79;Yuan Renminbi
+640;eleifend;Intex;45.06;Ruble
+641;pretium;Philips;64.74;Peso
+642;integer tincidunt;Nokia;86.82;Sol
+643;condimentum;Ulefone;22.19;Afghani
+644;magna;vivo;70.86;Peso
+645;pretium;Xiaomi;95.69;Naira
+646;orci eget;QMobile;32.25;Boliviano
+647;dui vel;Archos;33.78;Franc
+648;consequat nulla;alcatel;62.49;Euro
+649;maecenas rhoncus;Spice;63.71;Dollar
+650;vivamus;HTC;27.33;Koruna
+651;rutrum neque;Nokia;42.58;Hryvnia
+652;lacus;Pantech;66.93;Rupee
+653;odio consequat;Huawei;67.07;Dalasi
+654;nunc vestibulum;HP;37.84;Rupiah
+655;morbi non;LG;89.95;Real
+656;amet;LG;87.61;Peso
+657;blandit;ZTE;35.88;Rupiah
+658;risus auctor;Samsung;30.7;Krona
+659;aenean;Samsung;66.34;Rupiah
+660;vitae ipsum;Lenovo;83.45;Birr
+661;nulla;ZTE;52.64;Shekel
+662;elit ac;verykool;18.24;Rupiah
+663;nulla;ZTE;24.63;Yuan Renminbi
+664;vel sem;Samsung;40.58;Ruble
+665;montes;Plum;39.06;Rupiah
+666;integer tincidunt;Motorola;33.93;Kuna
+667;velit;Samsung;86.4;Quetzal
+668;ac;Sewon;69.09;Dollar
+669;lobortis;LG;78.08;Yuan Renminbi
+670;ultrices;Allview;42.16;Peso
+671;vitae nisl;Samsung;31.46;Yuan Renminbi
+672;lectus in;ZTE;52.25;Rupiah
+673;est;Samsung;18.15;Dinar
+674;risus auctor;Samsung;91.32;Kyat
+675;eu;Archos;22.59;Yuan Renminbi
+676;sit;Sony;25.49;Yuan Renminbi
+677;sollicitudin;Celkon;32.49;Yuan Renminbi
+678;sapien;Celkon;62.26;Krone
+679;lobortis;LG;2.96;Rial
+680;donec;Bird;48.17;Zloty
+681;mauris;alcatel;42.35;Yuan Renminbi
+682;tortor;Samsung;36.64;Yen
+683;nulla;Nokia;65.89;Ruble
+684;nullam porttitor;Apple;25.74;Krona
+685;elementum;Microsoft;22.45;Yuan Renminbi
+686;ultrices;Oppo;83.32;Peso
+687;ligula;Allview;80.15;Krona
+688;odio consequat;Sony;73.13;Peso
+689;eu pede;Xiaomi;71.3;Koruna
+690;scelerisque quam;Vodafone;17.2;Dollar
+691;molestie;Samsung;52.56;Ruble
+692;nulla ac;Archos;45.18;Ruble
+693;justo;LG;74.9;Dram
+694;turpis;Huawei;63.11;Yuan Renminbi
+695;felis ut;Celkon;16.56;Euro
+696;congue;Icemobile;11.11;Pula
+697;ipsum primis;Motorola;78.96;Hryvnia
+698;platea;ZTE;95.49;Euro
+699;convallis duis;Yezz;64.07;Krona
+700;nulla;alcatel;7.17;Rupiah
+701;mi;ZTE;7.94;Euro
+702;lobortis;Huawei;16.26;Euro
+703;dui maecenas;BLU;77.68;Somoni
+704;sociis;Xiaomi;14.21;Peso
+705;sed vestibulum;Nokia;43.84;Rand
+706;condimentum id;Icemobile;3.82;Ruble
+707;maecenas ut;Micromax;58.25;Koruna
+708;hendrerit;BenQ;51.91;Dong
+709;eget;Samsung;42.69;Krona
+710;vel lectus;verykool;45.46;Euro
+711;ligula;Huawei;21.43;Rupiah
+712;duis bibendum;Pantech;92.45;Yuan Renminbi
+713;amet;LG;46.0;Real
+714;odio odio;Sony;14.91;Ruble
+715;id;Samsung;12.72;Franc
+716;pellentesque ultrices;Microsoft;34.18;Yuan Renminbi
+717;orci;Gionee;93.98;Yuan Renminbi
+718;orci pede;Sagem;25.61;Ruble
+719;eros suspendisse;Samsung;65.85;Rupiah
+720;quis turpis;NIU;30.3;Rupiah
+721;neque;alcatel;20.94;Dollar
+722;sed sagittis;Huawei;41.63;Ruble
+723;vulputate ut;Realme;30.42;Lev
+724;orci luctus;BLU;43.02;Real
+725;integer;Acer;96.78;Ruble
+726;vel;Micromax;24.51;Somoni
+727;tellus in;Nokia;61.94;Rupiah
+728;praesent id;Motorola;1.65;Euro
+729;sem praesent;Maxon;57.24;Euro
+730;sit;Icemobile;72.19;Euro
+731;quis;Sharp;56.2;Tenge
+732;metus vitae;ZTE;60.95;Rupiah
+733;sapien a;alcatel;91.72;Real
+734;metus arcu;Philips;53.89;Yuan Renminbi
+735;primis in;Motorola;98.03;Dollar
+736;nulla integer;Samsung;8.43;Yuan Renminbi
+737;sociis natoque;vivo;79.05;Real
+738;iaculis;Philips;76.59;Lempira
+739;ridiculus mus;vivo;91.96;Euro
+740;odio;Icemobile;79.18;Dinar
+741;vulputate elementum;Samsung;43.09;Peso
+742;orci;Motorola;27.96;Peso
+743;eros viverra;Ulefone;77.33;Rupiah
+744;aliquam;HTC;68.28;Peso
+745;libero ut;Infinix;90.86;Ruble
+746;id pretium;Motorola;1.83;Rupiah
+747;erat eros;Realme;17.3;Yuan Renminbi
+748;morbi quis;Lenovo;99.38;Yen
+749;tortor quis;QMobile;42.02;Rupiah
+750;quis;Samsung;74.74;Euro
+751;odio in;BLU;36.72;Afghani
+752;amet;Xiaomi;42.83;Tugrik
+753;et ultrices;Ulefone;11.05;Franc
+754;velit;Sewon;30.58;Zloty
+755;orci mauris;Xiaomi;53.33;Franc
+756;eu;Micromax;6.82;Peso
+757;at;Gionee;58.59;Yuan Renminbi
+758;at;Oppo;2.13;Dinar
+759;in congue;Honor;64.23;Dollar
+760;purus sit;Samsung;94.92;Peso
+761;varius ut;Samsung;2.43;Ruble
+762;eu;Motorola;46.02;Afghani
+763;in;Realme;51.25;Yuan Renminbi
+764;ut;Prestigio;57.91;Ruble
+765;posuere;LG;6.59;Yuan Renminbi
+766;interdum mauris;Huawei;80.04;Yuan Renminbi
+767;penatibus et;Samsung;8.13;Rupee
+768;arcu sed;verykool;42.97;Peso
+769;pretium iaculis;Lava;66.68;Shilling
+770;ut dolor;HTC;65.61;Ruble
+771;adipiscing lorem;Samsung;6.4;Rupiah
+772;nulla tellus;Yezz;78.49;Dollar
+773;nulla mollis;Lenovo;91.71;Real
+774;felis;Micromax;68.09;Yuan Renminbi
+775;platea dictumst;LG;94.16;Ringgit
+776;est;Xiaomi;60.57;Rupee
+777;amet cursus;Philips;40.62;Yuan Renminbi
+778;massa tempor;Sagem;91.27;Euro
+779;at;T-Mobile;53.88;Peso
+780;sit;alcatel;23.3;Yen
+781;eleifend;Huawei;48.28;Rupiah
+782;adipiscing;Philips;98.75;Yuan Renminbi
+783;vivamus;Samsung;13.83;Rupiah
+784;augue;Allview;36.99;Euro
+785;nisl duis;Meizu;22.38;Dollar
+786;in;BenQ;42.49;Cordoba
+787;leo maecenas;Energizer;28.56;Yuan Renminbi
+788;sed lacus;Samsung;46.45;Peso
+789;est quam;vivo;7.75;Peso
+790;in;Samsung;37.52;Koruna
+791;lectus;Sewon;24.37;Rupiah
+792;in;Samsung;33.87;Yuan Renminbi
+793;sit;Maxwest;95.21;Ruble
+794;id;BLU;65.69;Yuan Renminbi
+795;sit;Innostream;83.92;Ruble
+796;cursus urna;Philips;79.63;Ruble
+797;purus;Gigabyte;76.0;Peso
+798;in blandit;LG;31.67;Rupiah
+799;suspendisse;Vodafone;39.22;Peso
+800;quam turpis;Motorola;87.03;Yuan Renminbi
+801;adipiscing;Panasonic;12.03;Yuan Renminbi
+802;viverra;LG;94.75;Dollar
+803;donec vitae;BLU;30.24;Yuan Renminbi
+804;consequat morbi;Motorola;51.21;Baht
+805;ut;Philips;90.19;Rupiah
+806;proin;LG;30.95;Yuan Renminbi
+807;luctus;BLU;33.31;Zloty
+808;sed nisl;Philips;16.75;Euro
+809;et;Unnecto;82.94;Peso
+810;posuere nonummy;Samsung;81.2;Manat
+811;aliquet at;Samsung;90.61;Sol
+812;fusce;Karbonn;9.42;Yuan Renminbi
+813;congue;LG;43.78;Dollar
+814;id;BlackBerry;46.46;Zloty
+815;amet;XCute;92.69;Yuan Renminbi
+816;vestibulum;Motorola;88.65;Yuan Renminbi
+817;nibh in;XOLO;49.94;Yuan Renminbi
+818;aenean;Huawei;28.75;Peso
+819;integer;Nokia;57.41;Yuan Renminbi
+820;donec pharetra;LG;99.39;Peso
+821;placerat;Sagem;47.81;Taka
+822;donec;Xiaomi;5.95;Rand
+823;non;HP;28.15;Manat
+824;dictumst morbi;LG;33.89;Yuan Renminbi
+825;molestie;Huawei;7.49;Yuan Renminbi
+826;amet sapien;Icemobile;35.02;Quetzal
+827;penatibus;Micromax;73.74;Yen
+828;leo odio;VK;57.93;Franc
+829;pretium;Huawei;59.72;Peso
+830;convallis;Sagem;52.12;Peso
+831;sapien non;XOLO;59.12;Euro
+832;suspendisse;Lenovo;59.04;Yuan Renminbi
+833;sed tincidunt;BenQ-Siemens;14.9;Real
+834;rutrum at;XOLO;39.96;Hryvnia
+835;penatibus;Nokia;40.19;Yuan Renminbi
+836;leo;Amazon;16.45;Dollar
+837;ipsum praesent;Samsung;23.88;Yuan Renminbi
+838;sapien;alcatel;79.18;Zloty
+839;nisl;Lava;88.67;Yuan Renminbi
+840;sit amet;Haier;62.4;Ruble
+841;montes nascetur;Philips;90.58;Zloty
+842;aliquam;Sagem;33.97;Tugrik
+843;sit amet;Honor;96.66;Sol
+844;venenatis lacinia;Sendo;52.77;Ruble
+845;pulvinar;alcatel;77.04;Sol
+846;dui proin;Palm;64.04;Yuan Renminbi
+847;ut;alcatel;13.13;Peso
+848;vel;Sony;44.05;Yuan Renminbi
+849;quis turpis;Unnecto;5.04;Lempira
+850;pretium iaculis;Spice;94.42;Lempira
+851;aliquet ultrices;NEC;56.49;Ruble
+852;pede posuere;Samsung;33.13;Ruble
+853;sit;Meizu;45.29;Rupiah
+854;natoque;Nokia;38.98;Peso
+855;imperdiet et;Prestigio;65.11;Dinar
+856;sapien iaculis;Panasonic;62.46;Dirham
+857;eu est;Energizer;91.88;Dong
+858;donec;i-mobile;56.52;Dollar
+859;hac;Vodafone;19.31;Baht
+860;turpis adipiscing;Samsung;93.92;Yuan Renminbi
+861;nullam orci;Mitsubishi;22.97;Real
+862;parturient;Panasonic;25.11;Euro
+863;non;Samsung;83.63;Naira
+864;donec ut;XOLO;15.83;Dollar
+865;magna ac;Nokia;87.72;Euro
+866;nisl aenean;Spice;52.85;Leone
+867;morbi ut;Ericsson;29.98;Yuan Renminbi
+868;porttitor;HP;38.41;Euro
+869;consequat ut;i-mobile;52.94;Yuan Renminbi
+870;nonummy;Nokia;31.08;Rupiah
+871;tortor duis;BlackBerry;84.57;Dram
+872;potenti nullam;Huawei;34.4;Rupiah
+873;at nulla;ZTE;8.94;Yuan Renminbi
+874;risus;Samsung;58.15;Rupiah
+875;accumsan;alcatel;42.64;Franc
+876;ligula pellentesque;Apple;88.17;Ringgit
+877;ac;Pantech;71.01;Pound
+878;semper porta;Lenovo;40.96;Dong
+879;id;NEC;60.45;Yuan Renminbi
+880;morbi;Philips;34.44;Rial
+881;amet;Motorola;29.29;Yuan Renminbi
+882;elementum in;Samsung;38.36;Peso
+883;nullam;XOLO;57.82;Peso
+884;aliquam sit;Sony;74.38;Yen
+885;purus;Samsung;20.64;Taka
+886;risus;BLU;18.31;Rupiah
+887;sapien;Nokia;38.77;Krona
+888;orci;Spice;80.04;Peso
+889;luctus;Samsung;78.43;Rupiah
+890;nibh;Xiaomi;67.3;Dram
+891;metus arcu;Yezz;21.16;Dong
+892;diam;Coolpad;63.43;Ruble
+893;quam;alcatel;70.69;Euro
+894;quis;LG;13.22;Ringgit
+895;morbi a;Lenovo;83.88;Peso
+896;eget;Plum;75.53;Euro
+897;pharetra magna;Celkon;13.64;Krona
+898;interdum venenatis;Emporia;7.84;Lek
+899;semper sapien;Lava;1.37;Ruble
+900;pulvinar lobortis;Huawei;53.3;Hryvnia
+901;nulla;Samsung;32.33;Ruble
+902;curae mauris;BLU;11.73;Dollar
+903;aliquam;Maxwest;72.13;Quetzal
+904;libero non;Sagem;32.03;Rupiah
+905;leo;HTC;66.3;Franc
+906;accumsan felis;Bosch;43.47;Guarani
+907;vivamus vestibulum;Motorola;64.15;Yuan Renminbi
+908;nulla integer;Yezz;2.89;Real
+909;commodo;Acer;17.57;Dollar
+910;lobortis;Motorola;27.78;Ruble
+911;iaculis diam;LG;79.52;Euro
+912;ligula;LG;37.9;Pound
+913;dapibus;Samsung;85.75;Ngultrum
+914;vestibulum ante;Samsung;43.58;Peso
+915;suspendisse;alcatel;91.74;Rupiah
+916;posuere;Samsung;76.19;Rupiah
+917;in blandit;Dell;33.83;Peso
+918;arcu;Allview;31.64;Yuan Renminbi
+919;orci vehicula;Lenovo;93.95;Somoni
+920;nam dui;Samsung;80.88;Pound
+921;eu felis;Micromax;49.31;Peso
+922;vitae ipsum;Motorola;70.79;Euro
+923;lobortis vel;Panasonic;32.99;Euro
+924;venenatis turpis;verykool;87.11;Yuan Renminbi
+925;nulla;Sony;47.71;Yuan Renminbi
+926;sit;Philips;64.67;Rupiah
+927;vitae mattis;i-mate;12.02;Rupiah
+928;iaculis;vivo;16.38;Rupiah
+929;curae;Cat;81.51;Franc
+930;sodales scelerisque;Allview;80.07;Yen
+931;eget congue;LG;65.36;Yuan Renminbi
+932;id;Panasonic;18.15;Ringgit
+933;ultrices;Micromax;12.97;Yuan Renminbi
+934;risus;LG;67.06;Yuan Renminbi
+935;lobortis sapien;Wiko;86.17;Rupiah
+936;leo;Meizu;32.55;Dollar
+937;auctor gravida;O2;18.89;Afghani
+938;aliquet at;Samsung;11.19;Ruble
+939;velit;Nokia;85.34;Peso
+940;vel;Bird;98.31;Pound
+941;neque;Motorola;63.53;Birr
+942;nisl;vivo;5.76;Yuan Renminbi
+943;dapibus;BLU;46.42;Peso
+944;tempus vivamus;Allview;46.22;Peso
+945;suspendisse accumsan;ZTE;27.19;Baht
+946;praesent blandit;LG;70.34;Dinar
+947;diam erat;Sony;44.31;Euro
+948;habitasse;Infinix;81.05;Franc
+949;faucibus accumsan;Samsung;4.13;Yuan Renminbi
+950;ultrices;Motorola;32.87;Rupiah
+951;leo;HTC;13.52;Kuna
+952;lectus;Motorola;98.11;Rupiah
+953;id;Sony;70.55;Peso
+954;libero ut;Micromax;29.62;Krona
+955;ipsum;ZTE;24.91;Peso
+956;sodales scelerisque;Kyocera;75.79;Real
+957;potenti in;Motorola;73.28;Yuan Renminbi
+958;blandit non;verykool;74.38;Peso
+959;nec sem;Lenovo;61.64;Ruble
+960;turpis;Ericsson;2.81;Ringgit
+961;rhoncus sed;Motorola;10.48;Zloty
+962;ipsum primis;BQ;68.81;Ruble
+963;pede libero;Nokia;62.05;Rial
+964;turpis;Allview;49.12;Rupiah
+965;orci;Motorola;79.6;Euro
+966;amet;Sewon;44.97;Dollar
+967;sit amet;Nokia;84.47;Euro
+968;congue;Samsung;33.64;Pound
+969;fringilla;Plum;95.56;Peso
+970;at turpis;Sewon;81.4;Krona
+971;ultrices;Sagem;27.75;Peso
+972;ligula nec;Micromax;52.25;Rupee
+973;sit;BlackBerry;49.21;Krona
+974;integer;Micromax;15.48;Yuan Renminbi
+975;curabitur convallis;BLU;34.16;Peso
+976;ullamcorper;vivo;61.61;Zloty
+977;sit;Philips;98.13;Quetzal
+978;ut;Plum;41.88;Krona
+979;justo;ZTE;37.92;Euro
+980;feugiat;Tecno;63.28;Euro
+981;eget;LG;4.96;Hryvnia
+982;blandit lacinia;Nokia;5.38;Euro
+983;in faucibus;alcatel;31.2;Ruble
+984;tempus vel;Samsung;54.08;Zloty
+985;amet turpis;LG;90.93;Rial
+986;risus;Xiaomi;86.99;Dollar
+987;penatibus;alcatel;49.21;Yuan Renminbi
+988;viverra;Archos;14.59;Euro
+989;quis odio;HTC;18.75;Tugrik
+990;at;Vertu;74.38;Rupiah
+991;magnis dis;BenQ;20.01;Yuan Renminbi
+992;tristique;Wiko;41.55;Rupiah
+993;metus arcu;Vodafone;41.0;Dollar
+994;id luctus;alcatel;17.29;Rial
+995;habitasse platea;Modu;19.9;Euro
+996;id;HP;82.1;Krona
+997;ac;Parla;32.55;Yuan Renminbi
+998;vestibulum;HP;14.31;Yuan Renminbi
+999;suscipit;Oppo;19.41;Euro
+1000;sed interdum;Samsung;96.17;Real
